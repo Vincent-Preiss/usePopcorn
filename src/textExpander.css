@@ -1,0 +1,15 @@
+.TextExpander__show-more-button {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.yellow {
+  color: brown;
+}
+.TextExpander__flexContainer {
+  display: inline-block;
+}
+.TextExpander__flexContainer span {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
